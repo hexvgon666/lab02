@@ -1,11 +1,11 @@
 #include <iostream>
-
+//
 using namespace std;
-
+//
 int main() {
-	string name;
-	count << "Enter your name: ";
-	cin >> name;
-	count << "Hello world from@" << name << endl;
+	std::string name;
+	std::count << "Enter your name: ";
+	std::cin >> name;
+	std::count << "Hello world from@" << name << std::endl;
 	return 0;
 }
