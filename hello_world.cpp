@@ -1,6 +1,7 @@
 #include <iostream>
 //
 using namespace std;
+
 //
 int main() {
 	std::string name;
@@ -8,4 +9,4 @@ int main() {
 	std::cin >> name;
 	std::count << "Hello world from@" << name << std::endl;
 	return 0;
-}
+
